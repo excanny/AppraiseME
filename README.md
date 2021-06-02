@@ -115,4 +115,6 @@ guide future improvements. It consists of 2 major modules.
   </div></div>
   
   <p>You can now access the server at <a href="http://localhost:8000" rel="nofollow">http://localhost:8000</a></p>
+   <p>You can now access the business login/register interface at <a href="http://localhost:8000/login" rel="nofollow">http://localhost:8000/login</a></p>
+   <p>You can now access the employee login interface at <a href="http://localhost:8000/employee/login" rel="nofollow">http://localhost:8000/employee/login</a></p>
 
