@@ -120,8 +120,8 @@ guide future improvements. It consists of 2 major modules.
    
    <ul> 
         <li>Start first by creating KPIs</li>
-        <li>Create Departments and tie in relevant departmental KPIs</li>
-        <li>finally create employee accounts</li>
+        <li>Create departments and tie in relevant departmental KPIs</li>
+        <li>Finally create employee accounts</li>
    </ul>
    
    <p>Note that a business must first create an employee account before an employee can login and submit their own self appraisal.</p>
