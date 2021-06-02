@@ -7,7 +7,7 @@
 
 ## About AppraiseME
 
-AppraiseME is a web application that measure employee performance against previously agreed goals, set
+AppraiseME is a Laravel web application that measure employee performance against previously agreed goals, set
 future objectives, and give staff guidance on their developmental and training needs. They help
 managers identify both achievements and shortfalls in performance, and give a framework to
 guide future improvements. It consists of 2 major modules.
