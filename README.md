@@ -10,17 +10,10 @@
 AppraiseME is a web application that measure employee performance against previously agreed goals, set
 future objectives, and give staff guidance on their developmental and training needs. They help
 managers identify both achievements and shortfalls in performance, and give a framework to
-guide future improvements.
+guide future improvements. It consists of 2 major modules.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+-Business.
+-Employee.
 
 ## Learning Laravel
 
