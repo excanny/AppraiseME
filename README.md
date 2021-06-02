@@ -24,7 +24,7 @@ guide future improvements. It consists of 2 major modules.
 
 <p>Please check the official laravel installation guide for server requirements before you start. <a href="https://laravel.com/docs/5.4/installation#installation" rel="nofollow">Official Documentation</a></p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<p>Clone the repository</p>
 
 ## Laravel Sponsors
 
