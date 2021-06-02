@@ -12,7 +12,7 @@ future objectives, and give staff guidance on their developmental and training n
 managers identify both achievements and shortfalls in performance, and give a framework to
 guide future improvements. It consists of 2 major modules.
 
--Business.
+-Business. <br>
 -Employee.
 
 <h1>
