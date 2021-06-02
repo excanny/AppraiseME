@@ -1,7 +1,7 @@
-<p align="center">
+<h1 align="center">
     
     AppraiseME
-</p>
+</h1>
 
 
 
