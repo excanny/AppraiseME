@@ -116,5 +116,8 @@ guide future improvements. It consists of 2 major modules.
   
   <p>You can now access the server at <a href="http://localhost:8000" rel="nofollow">http://localhost:8000</a></p>
    <p>You can now access the business login/register interface at <a href="http://localhost:8000/login" rel="nofollow">http://localhost:8000/login</a></p>
+   <p>There are 4 tabs in the Business dashboard. KPI, Department and Employee and Export tabs</p>
+   <p> Start first by creating KPIs, then create Departments and tie in relevant departmental KPIs, finally create employee accounts</p>
+   <p>Note that a business must first create an employee account before an employee can login and submit their own self appraisal.</p>
    <p>You can now access the employee login interface at <a href="http://localhost:8000/employee/login" rel="nofollow">http://localhost:8000/employee/login</a></p>
 
